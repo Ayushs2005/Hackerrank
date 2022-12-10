@@ -3,4 +3,4 @@
 My solutions to the practice exercises, coding challenges, and other problems on Hackerrank!
 www.Hackerrank.com
 
-Profile: https://www.hackerrank.com/anarayanan86
+Profile: https://www.hackerrank.com/sharma_0316ayush
